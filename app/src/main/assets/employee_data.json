@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Kamal",
+      "address": "Colombo, Sri Lanka",
+      "projects": ["ERP Project", "CRM Project"]
+    },
+    {
+      "name": "John Doe",
+      "address": "New York, USA",
+      "projects": ["Web Development Project", "Mobile App Project"]
+    },
+    {
+      "name": "Alice Smith",
+      "address": "London, UK",
+      "projects": ["Marketing Campaign Project", "Brand Refresh Project"]
+    },
+    {
+      "name": "Ahmed Khan",
+      "address": "Dubai, UAE",
+      "projects": ["Financial Analysis Project", "Investment Strategy Project"]
+    },
+    {
+      "name": "Maria Garcia",
+      "address": "Madrid, Spain",
+      "projects": ["Product Launch Project", "Market Research Project"]
+    },
+    {
+      "name": "Chen Wei",
+      "address": "Shanghai, China",
+      "projects": ["Supply Chain Optimization Project", "Inventory Management Project"]
+    }
+  ]
+}
